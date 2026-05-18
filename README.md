@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushkachoudhury866-ux" alt="anushkachoudhury866-ux" /></a> </p>
 
-- 🔭 I’m currently working on [Force-Friction-AI]https://github.com/anushkachatterjee07-ui/Force-Friction-AI
+- 🔭 I’m currently working on [Force-Friction-AI](https://github.com/anushkachatterjee07-ui/Force-Friction-AI)
 
 - 🌱 I’m currently learning **CSS HTML**
 
