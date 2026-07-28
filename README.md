@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushkachoudhury866-ux" alt="anushkachoudhury866-ux" /></a> </p>
 
-- 🔭 I’m currently working on [Force-Friction-AI](https://github.com/anushkachatterjee07-ui/Force-Friction-AI)
+- 🔭 I’m currently working on [Never-I-have-Ever](https://github.com/anushkachoudhury866-ux/Never-I-have-Ever.git)
 
-- 🌱 I’m currently learning **CSS HTML**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **choudhuryanushka89@gmail.com**
 
