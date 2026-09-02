@@ -1,29 +1,52 @@
-<h1 align="center">Hi 👋, I'm Anushka Choudhury</h1>
-<h3 align="center">Electronics and Communication engineering student.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkachoudhury866-ux&label=Profile%20views&color=0e75b6&style=flat" alt="anushkachoudhury866-ux" /> </p>
+# Hi, I'm Anushka Choudhury 🌸
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushkachoudhury866-ux" alt="anushkachoudhury866-ux" /></a> </p>
+**2nd Year ECE Student · AI/ML Enthusiast · Exploring New Technologies**
 
-- 🔭 I’m currently working on [Never-I-have-Ever](https://github.com/anushkachoudhury866-ux/Never-I-have-Ever.git)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=500&lines=Building+with+curiosity...;Learning+the+MERN+Stack...;Always+exploring+something+new." alt="typing" />
 
-- 🌱 I’m currently learning **MERN STACK**
+</div>
 
-- 📫 How to reach me **choudhuryanushka89@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
+## About Me
+
+- 🎓 2nd Year Electronics & Communication Engineering student
+- 🤖 Genuinely curious about AI/ML and how intelligent systems work
+- 🌱 Currently learning the **MERN Stack**
+- 🔭 Currently building **[Never I Have Ever](https://github.com/anushkachoudhury866-ux/Never-I-have-Ever)**
+- 💌 Reach me at **choudhuryanushka89@gmail.com**
+
+<br>
+
+## Featured Projects
+
+**🎮 [Never Have I Ever](https://github.com/anushkachoudhury866-ux/Never-I-have-Ever)**
+A full-stack party game where players answer "Never Have I Ever" prompts, track their responses, and save results. Built with a responsive frontend, a REST API backend, and MongoDB storage.
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
+
+**⚡ [Campus Watt Meter](https://github.com/anushkachatterjee07-ui/Campus-Watt-Meter)**
+A privacy-first AI system that detects energy wastage in empty rooms using YOLOv8 object detection on live camera feeds, sending alerts through a live dashboard.
+`Python` `OpenCV` `YOLOv8` `FastAPI` `React`
+
+<br>
+
+## Languages & Tools
+
 <p align="left">
-<a href="https://twitter.com/anuu_1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuu_1111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anushka-choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-choudhury" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css,nodejs,express,mongodb,mysql,streamlit&theme=light" alt="skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkachoudhury866-ux&show_icons=true&locale=en&layout=compact" alt="anushkachoudhury866-ux" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkachoudhury866-ux&show_icons=true&locale=en" alt="anushkachoudhury866-ux" /></p>
+## Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkachoudhury866-ux&" alt="anushkachoudhury866-ux" /></p>
+<p align="left">
+  <a href="https://twitter.com/anuu_1111"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter"/></a>
+  <a href="https://linkedin.com/in/anushka-choudhury"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:choudhuryanushka89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+</p>
 
-
+<br>
