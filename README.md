@@ -50,3 +50,7 @@ A privacy-first AI system that detects energy wastage in empty rooms using YOLOv
 </p>
 
 <br>
+
+## Contribution Activity
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkachoudhury866-ux&" alt="anushkachoudhury866-ux" /></p>
