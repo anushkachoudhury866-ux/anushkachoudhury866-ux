@@ -45,7 +45,7 @@ A privacy-first AI system that detects energy wastage in empty rooms using YOLOv
 
 <p align="left">
   <a href="https://twitter.com/anuu_1111"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter"/></a>
-  <a href="https://linkedin.com/in/anushka-choudhury"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/anushka-choudhury-78832b3a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="mailto:choudhuryanushka89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
